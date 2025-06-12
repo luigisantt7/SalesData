@@ -1,6 +1,6 @@
 # 🎮 Projeto de Análise de Vendas Globais de Consoles
 
-Este projeto foi desenvolvido como parte do curso **XP Inc Cloud com IA**. O objetivo é consolidar, analisar e transformar dados de vendas de consoles fabricados pela empresa, que atua globalmente e terceiriza a distribuição e venda dos produtos.
+Este projeto foi desenvolvido como parte do curso **XP Inc Cloud com IA**. O objetivo é consolidar, analisar e transformar dados de vendas de consoles fabricados pela empresa fictícia, que atua globalmente e terceiriza a distribuição e venda dos produtos.
 
 ## ✨ Características
 -  Foco exclusivo na fabricação de consoles.
